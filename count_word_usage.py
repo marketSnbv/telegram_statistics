@@ -1,7 +1,6 @@
 import operator
 
 words = ["привет"]
-in_chat = False
 users = {}
 name = ""
 from_id = ''
