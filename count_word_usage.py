@@ -1,5 +1,6 @@
 import operator
 
+
 words = ["привет"]
 users = {}
 name = ""
